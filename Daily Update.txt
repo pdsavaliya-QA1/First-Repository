@@ -1,0 +1,245 @@
+86cwyan43  -  Front Desk
+86cwyanv1 - AMO
+86cwxg2ba - Doctor
+
+Intesols Pvt Ltd
+099799 69136
+================================
+admin@gmail.com
+vrutang@dmin1
+
+9121038833879572
+
+http://oscar-new1.nomizo.tech/admin/login
+
+{"email":"admin@gmail.com()!@","password":"vrutang@dmin1??>","remember":false}
+hr@qodictecnosoft.com
+8799375705
+
+============================
+EMAIL : 	qatester1432@gmail.com
+PASSWORD : 	admin@123
+----------------------------------------------
+
+Intesols Private Limited 099799 69136
+Rapidops Inc
+YSoft Solution 091734 48611
+&nbsp;
+UAN= 100654462800
+PF= Pradipsavaliya@123
+Aadhar= 662378142677
+================================
+https://trello.com/b/6SgfNTG0/vision
+GST=   24HDE7487RE5RT4
+GSTIN= 09AAMFC0376K1Z4
+CGST= 
+SGST=
+=================================================
+daily Update status-
+Chanakya's Team :
+1) Certificate 
+2) Discharge
+
+QA In Progress
+1) Certificate 
+2) Print
+
+Raised Bug
+1) Bugs identified in the Certificate module.
+2) Bugs identified in the Discharge process.
+
+QA In Plan
+1) Certificate discussion
+2) Regression testing for NCD report in UAT.
+===================================================
+
+https://www.typing.com/student/lesson/359/j-f-and-space
+
+
+Pradip care provider
+user-pradip
+pw-	param@123
+
+
+
+BMCAHT202502805106
+
+drvaishali
+akurlimh
+======================================================
+
+mothermh
+
+
+
+MLC 
+1) Audio/video file can be upload
+2) criminal/sexual/carvical 
+3) 
+
+
+26-01-24 top-up 
+
+
+
+vedanshi- Birth Record Approval is done from AMO - in QA it is resolved
+
+Pradip -
+1) Certificate header details remove in preview - resolved in QA
+2) NCD both column issue - Under development
+
+Devika
+1) OT schedule page > 
+=>OT cancel after Booking.Got Internal server error issue resolved.
+
+
+https://app.clickup.com/t/86czgu4d7
+https://app.clickup.com/t/86cyz157c
+
+
+
+MLC 
+Uploaded files (images, audio, or documents) must be in allowed formats (JPEG, PNG, PDF, MP3) and within size limits.
+
+Every modification, update, or deletion of records is logged for legal tracking and compliance.
+
+Nityam@123
+
+OPD Login
+Username - masteropd
+Password - masteropd
+
+Doctor Login
+Username  - masterodoctor
+Password - masterodoctor
+
+Admin Login
+Username - admin
+Password- BMChe@lthTech#419
+
+external careprovider
+Username - sardarpd
+Password- sardarpd
+
+sanjay.so
+Artem@123
+==============================================================
+Doctor
+	spdoctor1
+	drjia
+
+
+
+
+
+BMC114202502381219
+
+
+
+pcv-31
+first-67
+second-68
+booster-69
+
+
+mmr = 33
+75
+
+DPT= 32
+70
+71
+72
+b1=73
+b2=74
+
+
+jalpa patel
+
+
+
+
+Maternity Hospital
+===========================
+Prabhadevi BMC Maternity Home = prabhadevimh -------- dotor= bbdoctorn
+JT CharitableArtem Maternity BOM = jtc007  ---------- doctor= keyur007
+Artem Maternity BOM = bommater no
+Artem Maternity AHM = ahmmater no
+A L Kanhere Maternity Home = alkmh
+Kajal Care Provider = kajaln
+Vora Multi Speciality Hospital = voradisp 
+
+
+sanjayshah
+
+
+
+https://hmis.mcgm.gov.in/
+1) Care provider
+u- param
+pw= param@123
+
+
+2) doctor
+u- nityam
+p- nityam@123
+
+https://uat.bmchealth.in/client-configuration/clinical-note-template?addCertificate=true
+
+Colonoscopy = created by samved sir
+
+ERCP (Endosopy Retrogrdae CholangioPancreatogarphy) done
+EUS Guided Cystogastrostomy done
+Endoscopic Ultrasound (EUS) done
+Esophagogastroduodenoscopy (EGD) done
+Per Oral Endoscopic Myotomy (POEM) done
+Endosonography
+
+Videocolonoscopy	=created by samved sir
+
+
+Cardiac Catherization
+Mitral Valvuloplasty
+Coarctoplastry
+Coronary Angioplastry
+Aortic
+Pulmonary
+Coronary Angioplastry and coronary sten implantation
+Permanent Pacemaker implantation
+ASD Device Closure
+VSD Device Closure
+
+
+
+
+SMS Link
+-The issue of the UPI payment link not working after 2 days has been resolved.
+
+If the user selects a Fixed Prosthesis service in the Rx plan under the Doctor login (the service must be properly mapped).
+
+
+
+
+
+
+headofficedisp
+
+Remove QA to UAT
+
+Consent
+1) Surgery
+	COLONOSCOPY Consent
+	ERCP Consent
+
+2) Autopsy Cosent
+	Relative Consent
+
+
+3) Examination Report of Sexual Violence
+
+
+
+masterdho
+
+
+
+DYNMK@951
