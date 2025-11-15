@@ -1,0 +1,23 @@
+Admin
+Diet Order Type
+Meal Tray
+Meal Session
+Dish Master
+
+
+Chanakya's Team
+Phoenix Team 
+Vijayeebhav Team
+Harikrushna Team
+Dynamic Form
+
+
+
+
+
+
+
+
+
+
+
